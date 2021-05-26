@@ -1,5 +1,5 @@
 ### Hi there 👋
-- My Portfolio: 
+- My Portfolio: https://john-paul-grace.github.io
 - 🔭 I’m currently working on
   a game-night project called Night's In (https://github.com/JFunck1990/Nights-In)
 - 🌱 I’m currently learning
