@@ -1,9 +1,9 @@
 ### Hi there 👋
 - My Portfolio: https://john-paul-grace.github.io
 - 🔭 I’m currently working on
-  a game-night project called Night's In (https://github.com/JFunck1990/Nights-In)
+  a game-night project called Night's In. (https://github.com/JFunck1990/Nights-In)
 - 🌱 I’m currently learning
-  about web sockets and react. I would love to use these to create web games.
+  about AWS to host my portfolio on my own domain name.
 - 📫 How to reach me:
   gracejohnpaul200@gmail.com or www.linkedin.com/in/John-Paul-Grace/
 
